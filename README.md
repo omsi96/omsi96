@@ -8,3 +8,4 @@
 - ⚡ Fun fact: I learnt progrmaming in  10th grade to get some money to do few songs 🎶, I still didn't do any song yet. 
 - 📫 How to reach me: I talk about general things and prorgamming on twitter.com/omsi96, I sing on instagram.com/omsi96.
 - 📧 Email: work: omar@barmej.com, personal: omsi96@gmail.com
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=retajalotaibi)](https://github.com/anuraghazra/github-readme-stats)
