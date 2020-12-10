@@ -10,4 +10,3 @@
 - 📧 Email: work: omar@barmej.com, personal: omsi96@gmail.com
 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=omsi96)](https://github.com/anuraghazra/github-readme-stats)
