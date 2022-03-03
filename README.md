@@ -4,8 +4,7 @@
 - 🔭 I’m currently working with CODED / Barmej as a project lead, content specialist, and a coding instructor.
 - 🍎 I was the CTO and CEO of [Canteeny](https://canteeny.com)
 - 💬 Ask me about Swift, iOS, teaching, leading teams, and automating operational work. Also anything related to computer media skills (i.e. photohshopping / Montaging...)
-- 🎶 I'm interested in everything related to art. I sing 🎤, I play guitar 🎸, I design 🖌, but I don't draw. 
-- ⚡ Fun fact: I learnt progrmaming in  10th grade to get some money to do few songs 🎶, I still didn't do any proffesional song yet. 
+- 🎶 I'm interested in everything related to art. If you meet me in person for more than 15 minutes, you will see me singing.
 - 📫 How to reach me: I talk about general things and prorgamming on twitter.com/omsi96, I sing on instagram.com/omsi96.
 - 📧 Email: work: omar@barmej.com, personal: omsi96@gmail.com
 
