@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-- 🥞 I'm a full stack developer. I work with React.js, Node.js, React native, UIKit, SwiftUI, Flutter. 
-- 🔭 I’m currently working with CODED / Barmej as a project lead, content specialist, and an instructor.
+- 🥞 I'm a full stack developer. I work with React.js, Node.js, React native, UIKit, SwiftUI, Flutter, Django. 
+- 🔭 I’m currently working with CODED / Barmej as a project lead, content specialist, and a coding instructor.
+- 🍎 I was the CTO and CEO of [Canteeny](https://canteeny.com)
 - 💬 Ask me about Swift, iOS, teaching, leading teams, and automating operational work. Also anything related to computer media skills (i.e. photohshopping / Montaging...)
 - 🎶 I'm interested in everything related to art. I sing 🎤, I play guitar 🎸, I design 🖌, but I don't draw. 
 - ⚡ Fun fact: I learnt progrmaming in  10th grade to get some money to do few songs 🎶, I still didn't do any proffesional song yet. 
